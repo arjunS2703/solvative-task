@@ -1,0 +1,15 @@
+.pagination{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.button{
+    color: white;
+    background-color: #087f5b;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 8px;
+    border: none;
+}
